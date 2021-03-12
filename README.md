@@ -5,7 +5,7 @@ This repository will hold OpenAPI (Swagger) definitions for building blocks that
 Each building block API definition should be stored in a YAML file that is compatible with the OpenAPI 3.1 standard
 
 
-# How will working groups work with the architecture group?
+# How will groups work with the architecture group?
 
 Each working group is responsible for defining and documenting the functional requirements for their block. A building block definition template will be provided to assist with this process: https://docs.google.com/document/d/1l-AFTtwBY3RpnlcCiUi3ifBVUNMI1AiM/edit?rtpof=true 
 
